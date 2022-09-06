@@ -1,5 +1,5 @@
 public class demo{
 	public static void main(String []param){
-		System.out.println("demo github");
+		System.out.println("welcome to github");
 	}
 }
